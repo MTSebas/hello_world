@@ -111,9 +111,9 @@ font-size: 20px;
 .combo_principal{
   display: flex;
   width: 100%;
-  height: auto%;
+  height: 450px;
 
-  justify-content: center;
+ justify-content: center;
 }
 
 .combos_menu{
@@ -575,8 +575,8 @@ font-size: 18px;
 
 }
 
-
-
+}
+@media (min-width: 1024px) and (max-width: 1500px){
 
 
 

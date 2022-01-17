@@ -318,6 +318,7 @@
     .caja_principal{
     display: flex;
     width: 70%;
+    }
     .caja_img{
       width: auto;
     }
