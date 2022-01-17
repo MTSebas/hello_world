@@ -95,7 +95,7 @@ display: flex;
 .section{
   margin-top: 4px;
   display: flex;
-  height: 446px;
+  height: auto;
   align-items:center;
   justify-content: center;
   background-color: rgb(255, 213, 97);
@@ -338,6 +338,7 @@ font-size: 18px;
 .section{
   align-items: flex-start;
   justify-content: center;
+  height: 450px;
   }
   .img_transitorias{
     margin-top: 60px;
@@ -348,7 +349,7 @@ font-size: 18px;
   
   }
   .img_transitorias iframe {
-    height: 350px;
+    height: 450px;
     display: flex;
    width: 450px;
    border-radius: 15px;
